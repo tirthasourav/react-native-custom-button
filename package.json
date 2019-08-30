@@ -1,6 +1,6 @@
 {
   "name": "rn-icon-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Customized button with icon for react native",
   "scripts": {
