@@ -16,7 +16,7 @@ import {
   StatusBar,
 } from 'react-native';
 
-import { CustomButton } from 'react-native-custom-button';
+import { CustomButton } from 'rn-icon-button';
 
 import {
   Header,
