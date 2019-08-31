@@ -1,6 +1,6 @@
 {
   "name": "rn-icon-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "description": "Customized button with icon for react native",
   "scripts": {
@@ -16,9 +16,10 @@
     "ios",
     "android",
     "ui",
-    "stepper",
-    "progress",
-    "progress-steps"
+    "Customizable button",
+    "button",
+    "custom-button",
+    "clickable-icon"
   ],
   "author": "SOURAV DEY",
   "license": "MIT",
