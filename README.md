@@ -27,3 +27,10 @@ iconSize={25}
 | buttonStyle     | object | NA |Optional|Styles for button.See example
 | icon     | image | NA |Optional|Use image to your buttons with or without text(button titles)
 | iconSize     | number | NA |Optional|use this to make the icon fit with your buttons
+
+
+
+
+# Screenshot
+
+![ScreenShot](https://raw.githubusercontent.com/tirthasourav/react-native-custom-button/master/screenshots/custom_button.png)
